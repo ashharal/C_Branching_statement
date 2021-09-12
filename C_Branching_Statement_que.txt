@@ -1,0 +1,10 @@
+Branching statement
+1. WAP using following menus-
+ Choice-1: Accept number and find out square and cube.
+ Choice-2: Check whether the given year is LEAP or not. 
+ If user enters wrong choice appropriate message should get displayed.
+2. WAP using switch case for arithmetic operation on two numbers, if user enters an operator as
+choice, the appropriate operation should perform.
+ If user enters wrong choice appropriate message should get displayed.
+ i.e. + is for addition
+ - is for subtraction
